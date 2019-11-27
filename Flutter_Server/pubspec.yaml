@@ -1,0 +1,5 @@
+name: flutter_server
+description: Flutter后端服务
+
+dependecies:
+  http_server: ^0.9.8
